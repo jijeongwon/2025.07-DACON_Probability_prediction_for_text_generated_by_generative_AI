@@ -1,0 +1,1 @@
+# 2025.07-DACON_Probability_prediction_for_text_generated_by_generative_AI
